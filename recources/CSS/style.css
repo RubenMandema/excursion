@@ -1,0 +1,38 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+}
+
+a {
+    font-size: 16px;
+    color: white;
+}
+
+body p{
+    font-size: 21px;
+    color: grey;
+}
+
+h2 {
+    font-size: 42;
+    font-weight: 300;
+}
+
+img {
+    display: block;
+    margin: auto;
+    vertical-align: middle;
+    padding: 18px;
+}
+
+.a1 {
+    text-align: right;
+}
